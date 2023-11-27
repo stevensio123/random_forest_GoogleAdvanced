@@ -1,6 +1,6 @@
 ## Lab: Random Forest Modeling
 
-In this lab (Activity_Build a random forest model.ipynb), I will practice using one of the most popular statistical learning algorithms: Random Forest (RF). I will be given a business scenario and a dataset to explore and apply the Random Forest algorithm. Throughout the lab, I will perform basic Exploratory Data Analysis (EDA), data cleaning, and other manipulations to prepare the data for modeling. This lab builds upon the airlines project where I previously used decision trees. However, this time I will train, tune, and evaluate a Random Forest model.
+In this lab (Activity_Build a random forest model.ipynb), I practiced using one of the most popular statistical learning algorithms: Random Forest (RF). I were given a business scenario and a dataset to explore and apply the Random Forest algorithm. Throughout the lab, I performed basic Exploratory Data Analysis (EDA), data cleaning, and other manipulations to prepare the data for modeling. This lab builds upon the airlines project where I previously used decision trees. However, this time I trained, tuned, and evaluated a Random Forest model.
 
 ## Dataset Description
 
